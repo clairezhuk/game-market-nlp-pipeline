@@ -189,7 +189,7 @@ def apply_categories_from_mapping():
     print("Done")
 
 if __name__ == "__main__":
-    #analyze_reviews_gpt2()
-    #extract_unique_features()
-    #categorize_features()
+    analyze_reviews_gpt2()
+    extract_unique_features()
+    categorize_features()
     apply_categories_from_mapping()

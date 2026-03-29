@@ -235,7 +235,7 @@ def create_feature_lists():
 
 
 if __name__ == "__main__":
-    #run_advanced_analysis()
-    #run_grouped_analysis()
-    #sort_for_manual_review()
+    run_advanced_analysis()
+    run_grouped_analysis()
+    sort_for_manual_review()
     create_feature_lists()

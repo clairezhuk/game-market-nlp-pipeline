@@ -22,7 +22,7 @@ A modular data pipeline built to identify the most profitable geographic markets
 ### Part 2: NLP Review Analysis & Feature Importance
 * reviuws_parser.py
 * analise_nlp.py
-* features_analyse2.py
+* features_analyse.py
 
 ## Key Features
 * Calculates comparative ROI and organic growth potential across different regions.
@@ -39,4 +39,4 @@ python icp.py
 python localization_analise.py
 python reviuws_parser.py
 python analise_nlp.py
-python features_analyse2.py
+python features_analyse.py
