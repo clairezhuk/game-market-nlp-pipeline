@@ -1,0 +1,70 @@
+1. Stack --> Rating: 3.97, Score: -1
+   Pros: [good graphics] | Cons: [boring]
+2. Helix Jump --> Rating: 3.87, Score: 0
+   Pros: [fun gameplay] | Cons: [too many ads]
+3. Swipe to go --> Rating: 3.88, Score: 0
+   Pros: [fun gameplay] | Cons: [bad controls]
+4. LightsOut Reaction Time/Reflex --> Rating: 3.96, Score: 0
+   Pros: [easy to learn] | Cons: [lacks content]
+5. MetroLand - Endless Runner --> Rating: 4.17, Score: -1
+   Pros: [good graphics] | Cons: [boring]
+----------------------------------------
+6. Slow Mo Run --> Rating: 4.18, Score: -1
+   Pros: [good music] | Cons: [bugs and glitches, repetitive]
+7. TikTok - Videos, Shop & LIVE --> Rating: 4.01, Score: 0
+   Pros: [smooth controls] | Cons: [repetitive]
+8. Temple Run 2: Endless Escape --> Rating: 4.12, Score: 0
+   Pros: [customization options] | Cons: [bad controls]
+9. RETROXEL: Retro Arcade Games --> Rating: 4.18, Score: 0
+   Pros: [smooth controls] | Cons: [bad controls]
+10. Super Arcade Racing --> Rating: 4.21, Score: -1
+   Pros: [good graphics] | Cons: [boring]
+----------------------------------------
+11. Temple Run --> Rating: 4.24, Score: -1
+   Pros: [good graphics] | Cons: [bugs and glitches, lacks content]
+12. Reckless Getaway 2: Car Chase --> Rating: 4.27, Score: -1
+   Pros: [fun gameplay] | Cons: [boring]
+13. Pixel Rush - Obstacle Course --> Rating: 4.29, Score: -1
+   Pros: [good story] | Cons: [boring]
+14. Dash Tag - Fun Endless Runner! --> Rating: 4.21, Score: 0
+   Pros: [customization options] | Cons: [bad graphics]
+15. Stacky Dash --> Rating: 4.22, Score: 0
+   Pros: [fun gameplay] | Cons: [lacks content]
+----------------------------------------
+16. STAR: Super Tricky Amazing Run --> Rating: 4.24, Score: 0
+   Pros: [customization options] | Cons: [pay to win]
+17. Endless Run: Jungle Escape 2 --> Rating: 4.24, Score: 0
+   Pros: [free to play] | Cons: [lacks content]
+18. Dodge Agent --> Rating: 4.25, Score: 0
+   Pros: [customization options] | Cons: [lacks content]
+19. Runner odyssey:running journey --> Rating: 4.25, Score: 0
+   Pros: [customization options] | Cons: [repetitive]
+20. Helix Stack Jump: Smash Ball --> Rating: 4.26, Score: 0
+   Pros: [offline play] | Cons: [bugs and glitches]
+----------------------------------------
+21. Layer Man 3D: Run & Collect --> Rating: 4.26, Score: 0
+   Pros: [fun gameplay] | Cons: [connection issues]
+22. Real Cricket™ Swipe --> Rating: 4.26, Score: 0
+   Pros: [good graphics] | Cons: [lacks content]
+23. Arcade Bowling Go 2 --> Rating: 4.29, Score: 0
+   Pros: [multiplayer] | Cons: [bad controls]
+24. Swipe Brick Breaker: The Blast --> Rating: 4.29, Score: 0
+   Pros: [customization options] | Cons: [bugs and glitches]
+25. Fun Race 3D — Run and Parkour --> Rating: 4.30, Score: 0
+   Pros: [fun gameplay] | Cons: [bad controls]
+----------------------------------------
+26. CATS: Crash Arena Turbo Stars --> Rating: 4.31, Score: 0
+   Pros: [fun gameplay] | Cons: [repetitive]
+27. Talking Tom Gold Run --> Rating: 4.32, Score: 0
+   Pros: [good graphics] | Cons: [bugs and glitches]
+28. Jelly Shift - Obstacle Course --> Rating: 4.34, Score: 0
+   Pros: [multiplayer] | Cons: [repetitive]
+29. Happy Wheels --> Rating: 4.34, Score: 0
+   Pros: [fun gameplay] | Cons: [connection issues]
+30. Kick the Buddy: Second Kick --> Rating: 4.37, Score: 0
+   Pros: [fun gameplay] | Cons: [bad controls]
+----------------------------------------
+31. Amusement Arcade 3D --> Rating: 4.23, Score: 1
+   Pros: [customization options, easy to learn] | Cons: [bad controls]
+32. Endless Run: Jungle Escape --> Rating: 4.30, Score: 1
+   Pros: [good music, fun gameplay] | Cons: [repetitive]
