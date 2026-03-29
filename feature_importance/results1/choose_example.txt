@@ -1,0 +1,12 @@
++
+1. GeoFS - Flight Simulator --> 4.3, [good graphics, good physics, offline play, challenging] | [bad controls, bugs and glitches, repetitive]
+2. Sky Wings: Pixel Fighter 3D --> 4.4, [good graphics, smooth controls, good physics, offline play, challenging] | [too many ads, bad controls, bugs and glitches, repetitive, pay to win, battery drain]
+3. Sky Force Reloaded --> 4.3, [good graphics, good physics, offline play, challenging] | [too many ads, bad controls, bugs and glitches, repetitive, pay to win, battery drain]
+4. Flight Simulator 2d - sandbox --> 4.7, [challenging] | [bad controls, bugs and glitches, repetitive, battery drain]
+5. Flight Pilot: 3D Simulator --> 4.1, [good physics, offline play, challenging] | [too many ads, bad controls, bugs and glitches, repetitive, pay to win, battery drain]
+
+-
+1. Plane Simulator 3D --> 3.6, [good graphics, smooth controls, good physics, offline play, challenging] | [too many ads, bad controls, bugs and glitches, repetitive, pay to win, battery drain]
+2. Sling Plane 3D - Sky Crash Jet --> 3.7, [] | [too many ads, bad controls, bugs and glitches, repetitive, pay to win, battery drain]
+3. Flight Simulator Advanced --> 3.5, [good graphics, smooth controls, good physics, offline play, challenging] | [bad controls, bugs and glitches, repetitive, pay to win, battery drain]
+4. Flight Simulator: Fly Plane 3D --> 3.6, [relaxing, good graphics, smooth controls, good physics, offline play, challenging] | [bad controls, bugs and glitches, repetitive]
